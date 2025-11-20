@@ -43,7 +43,7 @@
 
         /* Header Styles */
         header {
-            background-color: white;
+            background-pink: white;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             position: sticky;
             top: 0;
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Winter Collection in 2026</h1>
+            <h1>Kaveri's Collection</h1>
             <h2>CHRISTMAS SALE<h2>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
