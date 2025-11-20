@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>KAVERI'S COLLECTION</h1>
-            <h2>WINTER SALE<h2>
+            <h2>Teja – Your Fashion, Your Way.<h2>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
