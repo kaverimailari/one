@@ -43,7 +43,7 @@
 
         /* Header Styles */
         header {
-            background-color: purple;
+            background-color: skyblue;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             position: sticky;
             top: 0;
@@ -200,7 +200,7 @@
             background-position: center;
             display: flex;
             align-items: center;
-            color: white;
+            color: skyblue;
             text-align: center;
         }
 
